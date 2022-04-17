@@ -1,5 +1,5 @@
-public class p12 {*
-    * An Interface is a completely(100%) "abstract class",
+public class p12 {
+    /* An Interface is a completely(100%) "abstract class",
     * that is used to group related methods with empty bodies
     * 
     * Need of interface?
